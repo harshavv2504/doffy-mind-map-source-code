@@ -2,6 +2,15 @@
 
 **DO.ffy** is a highly customizable, feature-rich mind mapping application built with **React** and **React Flow**. It provides an intuitive, full-screen canvas for users to create, organize, and visualize their ideas effortlessly.
 
+### The Blueprint for Your Vision
+
+Documenting a project's flow is more than just a task; it's the art of creating a blueprint for your vision. This visual map is essential for understanding logic, anticipating challenges, and communicating a clear path forward. I created DO.ffy because this foundational process should never be constrained.
+
+My frustration grew from tools that would lock away features or demand a subscription right when the architectural details became most critical. DO.ffy is the answer: a free, professional-grade canvas dedicated to the art of documentation. It provides the freedom and power to design and map out your project flows with the elegance and precision they demand, ensuring your blueprint is always complete.
+
+**Created by:** Harsha Vardhan
+**Date:** 01 August 2025
+
 ---
 
 ## ✨ Key Features
@@ -106,8 +115,3 @@ Click "Export to PNG" to download a PNG image of your current mind map view.
 - **Build Tool:** Vite  
 - **Styling:** Tailwind CSS
 
----
-
-### 📄 License
-
-This project is licensed under the MIT License – see the LICENSE.md file for details.
