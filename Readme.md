@@ -58,7 +58,7 @@ You'll need **Node.js** (version 18.x or higher) and a package manager like **np
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/harshavv2504/doffy-mind-map-source-code.git
 ```
 
 **Navigate to the project directory:**
